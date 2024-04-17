@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "imgSrc": "asset/gameboy1.png",
+    "imgSrc": "./asset/gameboy1.png",
     "name": "Gameboy(White)",
     "price": 10000
   },
   {
     "id": 2,
-    "imgSrc": "asset/gameboy2.png",
+    "imgSrc": "./asset/gameboy2.png",
     "name": "Gameboy(Red)",
     "price": 3000
   },
   {
     "id": 3,
-    "imgSrc": "asset/gameboy3.png",
+    "imgSrc": "./asset/gameboy3.png",
     "name": "Gameboy(Green)",
     "price": 1500
   },
   {
     "id": 4,
-    "imgSrc": "asset/gameboy4.png",
+    "imgSrc": "./asset/gameboy4.png",
     "name": "Gameboy(Yellow)",
     "price": 3000
   },
   {
     "id": 5,
-    "imgSrc": "asset/nintendo1.png",
+    "imgSrc": "./asset/nintendo1.png",
     "name": "Nintendo(Red)",
     "price": 3000
   },
   {
     "id": 6,
-    "imgSrc": "asset/nintendo2.png",
+    "imgSrc": "./asset/nintendo2.png",
     "name": "Nintendo(Orange)",
     "price": 15000
   },
   {
     "id": 7,
-    "imgSrc": "asset/nintendo3.png",
+    "imgSrc": "./asset/nintendo3.png",
     "name": "Nintendo(Blue)",
     "price": 6000
   },
   {
     "id": 8,
-    "imgSrc": "asset/nintendo4.png",
+    "imgSrc": "./asset/nintendo4.png",
     "name": "Nintendo(Basic)",
     "price": 1000
   }
