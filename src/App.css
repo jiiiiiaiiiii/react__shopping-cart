@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 구글 폰트 */
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&family=Nanum+Myeongjo&family=Pixelify+Sans&family=Young+Serif&display=swap');
+
+* {font-family: 'Pixelify Sans', sans-serif;}
